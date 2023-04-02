@@ -8,7 +8,6 @@ class App(tk.Tk):
         super().__init__()
 
         self.title('Python Project')
-        self.geometry('400x400')
 
 if __name__ == '__main__':
     app = App()
